@@ -1,0 +1,9 @@
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\bin\Debug\CalculadoraVTD.exe
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\bin\Debug\CalculadoraVTD.pdb
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\bin\Debug\CalculadoraVTD.xml
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.Form1.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.Resources.resources
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.vbproj.GenerateResource.Cache
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.exe
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.xml
+C:\Users\WILMERMANUEL\documents\visual studio 2010\Projects\CalculadoraVTD\CalculadoraVTD\obj\x86\Debug\CalculadoraVTD.pdb
